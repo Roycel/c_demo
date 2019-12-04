@@ -1,3 +1,2 @@
 # c_demo
-this is a  c demo!
-## teach you how to code
+作业提交在homework分支
